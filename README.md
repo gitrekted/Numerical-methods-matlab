@@ -1,6 +1,6 @@
 # Numerical Methods Toolkit (MATLAB)
 
-This repository is a collection of MATLAB scripts implementing a wide range of numerical methods. These were developed as part of my undergraduate coursework in **Numerical Analysis** at Jadavpur University. To reinforce my understanding beyond the classroom, I implemented each method from scratch, added extra techniques, and structured them into a well-organized project.
+This repository is a collection of MATLAB scripts implementing a wide range of numerical methods. These were developed as part of my undergraduate coursework in **Numerical Analysis** at Jadavpur University. To reinforce my understanding, I implemented each method from scratch, added extra techniques, and structured them into a well-organized project.
 
 ---
 
@@ -48,13 +48,6 @@ It is ideal for students, educators, and anyone wanting a hands-on foundation in
 
 3. Run any `.m` file directly. Each is standalone with test values and display output.
 
----
-
-## 📬 Contact
-
-Created by **Alex Nirmal Minj**  
-📧 deltadrops3@gmail.com  
-🔗 [linkedin.com/in/alexnirmalminj](https://linkedin.com/in/alexnirmalminj)
 
 ---
 
